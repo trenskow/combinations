@@ -10,4 +10,10 @@ declare function combinations<T>(
 	array: T[]
 ): T[][];
 
+declare namespace combinations {
+	function single<T>(
+		array: T[][]
+	): T[][];
+}
+
 export default combinations;
