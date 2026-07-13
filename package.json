@@ -1,6 +1,6 @@
 {
 	"name": "@trenskow/combinations",
-	"version": "0.1.11",
+	"version": "0.1.12",
 	"description": "Small package that iterates an array and returns all ordering combinations.",
 	"keywords": [
 		"array",
